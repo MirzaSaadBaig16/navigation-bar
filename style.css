@@ -1,18 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .navbar{
     display: flex;
     border: 3px solid black;
-    width: 1300px;
-    height: 40px;
-    border-radius: 20px;
+    width: 1366px;
+    height: 50px;
     font-size: large;
-    
-    
+    background-color: black; 
+    justify-content: center;  
+}
+a{
+    text-decoration: none;
+    color: white;
 }
 li{
     display: inline;
-    padding: 30px;
+    padding: 20px;
 }
 .center{
     text-align: center;
     font-size: larger;
+    background-color: black;
+    color: white;
 }
+h1{
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
